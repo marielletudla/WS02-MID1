@@ -1,0 +1,109 @@
+html, body{
+    
+    font-family: serif, sans-serif;
+    margin: 0;
+    background-color:#D3D0D0;
+    color: #070707;
+    font-size: 120%;
+    
+
+    }
+    header{
+        background-image: url(backgroundd.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size:cover;
+        padding: 50px;
+        text-align: center;
+        width: 100;
+        
+    }
+
+    h1{
+    background: linear-gradient(90deg, #328286,#D3D0D0);
+    -webkit-background-clip: text; 
+    background-clip: text;
+    color: transparent;
+    font-size: 95px;
+    font-family: Henny penny;
+    text-align: center;
+    font-weight: 600;
+  
+    }
+
+    h2{
+        font-family:Sabo 27px ;
+        height: 42px;
+       
+        
+
+    }
+    header img{
+    border-radius: 174px;
+    width: 300px;
+    border: 15px solid #D3D0D0;
+   
+   
+    }
+
+    .content{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    }
+
+    img.big-image{
+    max-width: 100%;
+
+    }
+
+    p.caption{
+    font-size: 16px;
+    color:rgb(44, 39, 39) ;
+    font-style: italic;
+    }
+
+    ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    }
+
+    h3{
+        text-align: center;
+    }
+    
+    .container{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        height: 350px;
+        color: #D3D0D0;
+        text-align: center;
+        margin-bottom: 1;
+    }
+
+    h4{
+        font-family: DM Serif Display;
+        height: 42PX;
+    }
+
+    a{
+    color: black;
+    text-decoration: none;
+    }
+    
+    footer{
+    background-image: url(Untitled\ design\ \(3\).png);
+    margin-top: 20px;
+    padding: 40px 20px;
+    
+    
+    }
+    footer ul{
+    text-align: center;
+    }
+    footer ul li{
+    display: inline-block;
+    margin: 0 5px;
+    }
